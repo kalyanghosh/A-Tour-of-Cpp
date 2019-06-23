@@ -8,7 +8,7 @@ This repository contains code of different chapters of Bjarne Stroustrup's famou
 * To compile the source code
   * $$ g++ <source_file>.cpp
 * To execute the compiled file
-  * SS ./a.out
+  * $$ ./a.out
 
 ## Modules/Chapters
 1. Chapter 1: The Basics
