@@ -6,9 +6,9 @@ This repository contains code of different chapters of Bjarne Stroustrup's famou
 * The codes have been compiled using the GCC compiler on an Ubuntu platform.
 * The IDE used for writing the source code is Atom
 * To compile the source code
-  * >> g++ <source_file>.cpp
+  * $$ g++ <source_file>.cpp
 * To execute the compiled file
-  * >> ./a.out
+  * SS ./a.out
 
 ## Modules/Chapters
 1. Chapter 1: The Basics
