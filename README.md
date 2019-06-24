@@ -15,3 +15,5 @@ This repository contains code of different chapters of Bjarne Stroustrup's famou
 
 2. Chapter 2: User Defined Data Types
 
+3. Chapter 3: Modularity
+
