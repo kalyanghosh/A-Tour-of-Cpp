@@ -17,5 +17,5 @@ This repository contains code implementation of different important topics in C+
 
 3. Chapter 3: Modularity
 
-4. Chapter 4: Structures & Unions
+4. Chapter 4: Structures & Pointers
 
