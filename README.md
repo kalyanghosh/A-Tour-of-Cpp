@@ -1,5 +1,5 @@
 # A-Tour-of-Cpp
-This repository contains code of different chapters of Bjarne Stroustrup's famous book on C++ titled "A Tour of C++"
+This repository contains code implementation of different important topics in C++ including Object Oriented Design concepts using C++
 
 ## Installation/Prerequisites
 
@@ -16,4 +16,6 @@ This repository contains code of different chapters of Bjarne Stroustrup's famou
 2. Chapter 2: User Defined Data Types
 
 3. Chapter 3: Modularity
+
+4. Chapter 4: Structures & Pointers
 
